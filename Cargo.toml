@@ -13,3 +13,4 @@ repository = "https://github.com/jarcane/rouler"
 [dependencies]
 pest = "0.4.0"
 rand = "0.3.0"
+rouler = { git = "https://github.com/chrisfair/rouler.git" }
